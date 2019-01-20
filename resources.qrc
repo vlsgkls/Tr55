@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Tr55" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
